@@ -1,2 +1,2 @@
-# hello-workd
+# hello-world
 my first github project
